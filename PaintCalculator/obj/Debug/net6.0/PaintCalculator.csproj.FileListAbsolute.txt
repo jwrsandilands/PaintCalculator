@@ -1,0 +1,15 @@
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\bin\Debug\net6.0\PaintCalculator.exe
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\bin\Debug\net6.0\PaintCalculator.deps.json
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\bin\Debug\net6.0\PaintCalculator.runtimeconfig.json
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\bin\Debug\net6.0\PaintCalculator.dll
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\bin\Debug\net6.0\PaintCalculator.pdb
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.csproj.AssemblyReference.cache
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.AssemblyInfoInputs.cache
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.AssemblyInfo.cs
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.csproj.CoreCompileInputs.cache
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.dll
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\refint\PaintCalculator.dll
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.pdb
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\PaintCalculator.genruntimeconfig.cache
+C:\Users\icek0\source\repos\PaintCalculator\PaintCalculator\obj\Debug\net6.0\ref\PaintCalculator.dll
